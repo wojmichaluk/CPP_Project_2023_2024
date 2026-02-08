@@ -1,5 +1,5 @@
-# CPP-Project-2023-2024
-Repository for project on CPP (C++) course at AGH University
+# CPP_Project_2023_2024
+Repository for project on CPP (Programowanie w języku C++ - C++ Programming) course at AGH University
 
 Katalog **projekt** zawiera pliki z paczki *zip*, którą w dokładnie takiej postaci załączyłem na Upelu. 
 Podczas samego prezentowania jedynie pokrótce opowiadałem o projekcie bazując na pliku z kodem, nie pokazywałem prezentacji czy innych plików.
